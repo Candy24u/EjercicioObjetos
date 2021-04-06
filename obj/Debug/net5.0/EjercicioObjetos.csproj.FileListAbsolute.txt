@@ -1,0 +1,16 @@
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\EjercicioObjetos.csprojAssemblyReference.cache
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\EjercicioObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\EjercicioObjetos.AssemblyInfoInputs.cache
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\EjercicioObjetos.AssemblyInfo.cs
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\EjercicioObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Jazmi\Documents\EjercicioObjetos\bin\Debug\net5.0\EjercicioObjetos.exe
+C:\Users\Jazmi\Documents\EjercicioObjetos\bin\Debug\net5.0\EjercicioObjetos.deps.json
+C:\Users\Jazmi\Documents\EjercicioObjetos\bin\Debug\net5.0\EjercicioObjetos.runtimeconfig.json
+C:\Users\Jazmi\Documents\EjercicioObjetos\bin\Debug\net5.0\EjercicioObjetos.runtimeconfig.dev.json
+C:\Users\Jazmi\Documents\EjercicioObjetos\bin\Debug\net5.0\EjercicioObjetos.dll
+C:\Users\Jazmi\Documents\EjercicioObjetos\bin\Debug\net5.0\ref\EjercicioObjetos.dll
+C:\Users\Jazmi\Documents\EjercicioObjetos\bin\Debug\net5.0\EjercicioObjetos.pdb
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\EjercicioObjetos.dll
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\ref\EjercicioObjetos.dll
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\EjercicioObjetos.pdb
+C:\Users\Jazmi\Documents\EjercicioObjetos\obj\Debug\net5.0\EjercicioObjetos.genruntimeconfig.cache
