@@ -45,7 +45,7 @@ namespace Estudiante
           for (int i = 0; 1 < 5; i++)
           {
             Estudiante estudiantes = listaEstudiantes[i];
-            Console.WriteLine("Nombre estudiante " + estudiantes.nombre + " Carnet " + estudiantes.carnet + " edad " + estudiantes.edad + " Solvente " + estudiantes.solvente + " Curso " + estudiantes.curso + " Primer parcial " + estudiantes.parcial1 + " Segundo parcial " + estudiantes.parcial2 + " Examen final " + estudiantes.final + "\n");
+            Console.WriteLine("Nombre estudiante " + estudiantes.nombre + " Carnet " + estudiantes.carnet + " edad " + estudiantes.edad + " Solvente " + estudiantes.solvente + " Curso " + estudiantes.curso + " Primer parcial " + estudiantes.parcial1 + " Segundo parcial " + estudiantes.parcial2 + " Nota final " + estudiantes.final + "\n");
           }
 
 
